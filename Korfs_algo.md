@@ -2,11 +2,7 @@
 
 ## Reference Paper
 
-[Open *Finding Optimal Solutions to Rubik's Cube Using Pattern Databases*](./docs/AAAI97-109.pdf)
-
-<object data='./docs/AAAI97-109.pdf' type='application/pdf' width='100%' height='800'>
-  <p>PDF preview unavailable. <a href='./docs/AAAI97-109.pdf'>Open the paper directly.</a></p>
-</object>
+[Open or download *Finding Optimal Solutions to Rubik's Cube Using Pattern Databases*](https://raw.githubusercontent.com/SwarnavaItIs/Rubiks_Cube_Solver/main/docs/AAAI97-109.pdf)
 
 ## Graph Search as a Black Box
 
